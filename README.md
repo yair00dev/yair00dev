@@ -1,10 +1,10 @@
-# Hi there! I'm Yahir👋
+# Hi there! I'm Yahir García 👋
 
-## 🚀 Backend Developer in Training | Software Architecture Enthusiast
+## 🚀 Backend Developer | Computer Science Student
 
-My journey into programming started with a simple question: *"How do video games actually work?"* That curiosity, combined with a solid technical foundation from my specialized high school background, has led me to focus on building robust and scalable server-side systems.
+I am a passionate Backend Developer building my career on a strong technical foundation. My journey started in **Technical High School**, where I fell in love with logic and systems, and I am currently leveling up my expertise by pursuing a **Bachelor's Degree in Computer Science**.
 
----
+Driven by the curiosity of how video games function behind the scenes, I now focus on architecting efficient, scalable, and secure server-side solutions.
 
 ### 🛠️ Tech Stack & Tools
 
