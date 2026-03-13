@@ -1,4 +1,4 @@
-# Hi there! I'm Yahir García 👋
+# Hi there! I'm Yahir👋
 
 ## 🚀 Backend Developer | Computer Science Student
 
