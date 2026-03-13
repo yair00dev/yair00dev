@@ -28,7 +28,8 @@ Looking to collaborate on a project or just talk about backend development and g
 - **LinkedIn:** [linkedin.com/in/yahir-garcia-dev/](https://www.linkedin.com/in/yahir-garcia-dev/)
 
 ---
-
+"
 ### 📊 GitHub Stats
 ![Yahir's Stats](https://github-readme-stats.vercel.app/api?username=yair00dev&show_icons=true&theme=radical&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yair00dev&layout=compact&theme=radical&hide_border=true)
+"
