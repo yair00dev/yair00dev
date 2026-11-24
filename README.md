@@ -4,7 +4,7 @@
 
 I am an aspiring Backend Engineer building my career on a strong foundation in algorithms and system architecture. My journey started in **Technical High School**, where I discovered my passion for logic, and I am currently pursuing a **Bachelor's Degree in Web Systems Development**.
 
-Driven by curiosity about how massive platforms operate behind the scenes—from **Xbox Live** multiplayer infrastructure to **YouTube**, **Instagram**, and seamless **cloud synchronization** across ecosystems like **iCloud**—I focus on building efficient, scalable, and resilient server-side solutions.
+Curious about how massive distributed systems handle millions of users in real time, I focus on developing reliable and scalable backend architectures.
 
 ---
 
@@ -22,7 +22,7 @@ Driven by curiosity about how massive platforms operate behind the scenes—from
 ### 🔭 My Current Path
 - 🌱 Deepening my expertise in the **Backend & Cloud ecosystem** (Node.js & Spring Boot).
 - 🧠 Practicing **Data Structures, Algorithms, and Big O analysis** (building on fundamentals from **Harvard's CS50**), while gearing up to study **System Design**.
-- 🎮 **Fun Fact:** Video games were my gateway into programming—today, I'm fascinated by the server architecture that powers online gaming and large-scale social/cloud platforms.
+- 🎮 **Fun Fact:** Video games were my gateway into programming—today, I'm fascinated by the server architecture that powers online gaming and large-scale platforms.
 - 🏗️ Building backend projects focused on API design, databases, and scalability.
 
 ---
